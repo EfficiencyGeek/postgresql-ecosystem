@@ -4,42 +4,42 @@ Overview of the capabilities and tooling directly tied to <a href="https://postg
 
 Diagram hosted by draw.io (<a href="https://www.draw.io/?mode=github#HEfficiencyGeek%2Fpostgresql-ecosystem%2Fmaster%2Fpostgresql-ecosystem.drawio" target="_drawio">Edit</a>)
 
-1. Why
-	a. What are the capabilities enabled with PostgreSQL?
+1. Why  
+	a. What are the capabilities enabled with PostgreSQL?  
 	b. To increase the viability of PostgreSQL to those who are relatively new to it.
-2. What
-	a. A diagram of the main entities providing capabilities, grouped into common areas.
-	b. Languages
-	c. Foreign Data Wrappers
-	d. Extensions
-	e. Data Store Model
-		i. JSON
-		ii. Columnar
-		iii. Name Value
-		iv. Graph
-		v. Time Series at Rest
-		vi. Streaming Time Series
-	f. Deployment
-		i. AWS
-		ii. Docker
-		iii. Android
-	g. Load Balancer, Pooler
-	h. Scalability / Replication
-	i. Monitoring
-	j. Rest / GraphQL Wrappers
-	k. Clients
-		i. PG Admin4
-		ii. PGWeb
-		iii. Azure Data Studio - SQL Notebook
+2. What  
+	1. A diagram of the main entities providing capabilities, grouped into common areas.  
+	1. Languages  
+	1. Foreign Data Wrappers  
+	1. Extensions  
+	1. Data Store Model   
+		1. JSON  
+		1. Columnar  
+		1. Name Value  
+		1. Graph  
+		1. Time Series at Rest  
+		1. Streaming Time Series  
+	1. Deployment  
+		1. AWS  
+		1. Docker  
+		1. Android  
+	1. Load Balancer, Pooler  
+	1. Scalability / Replication  
+	1. Monitoring  
+	1. Rest / GraphQL Wrappers  
+	1. Clients  
+		1. PG Admin4  
+		1. PGWeb  
+		1. Azure Data Studio - SQL Notebook  
 
-3. How
-	a. Open Source - use github?
-	b. Allow for PRs, collaboration
-	c. With Links to other sites.
-	d. Feedback to alex@efficiencygeek.com
+3. How  
+	1. Open Source - use github?  
+	1. Allow for PRs, collaboration  
+	1. With Links to other sites.  
+	1. Feedback to alex@efficiencygeek.com  
 
-Roadmap:
-1. MMF1
+Roadmap:  
+1. MMF1  
 	1.	Complete Data on Categories, Nodes with Links
 	2. 	Embed static image into this github repo, and just do a save as image from draw.io.
 2. MMF2
