@@ -4,6 +4,8 @@ Overview of the capabilities and tooling directly tied to <a href="https://postg
 
 Diagram hosted by draw.io (<a href="https://www.draw.io/?mode=github#HEfficiencyGeek%2Fpostgresql-ecosystem%2Fmaster%2Fpostgresql-ecosystem.drawio" target="_drawio">Edit</a>)
 
+![Diagram](https://raw.githubusercontent.com/EfficiencyGeek/postgresql-ecosystem/master/postgresql-ecosystem.png?token=AC2QMHEJNQAQDT35KDKHL625KG3OQ)
+
 1. Why  
 	a. What are the capabilities enabled with PostgreSQL?  
 	b. To increase the viability of PostgreSQL to those who are relatively new to it.
