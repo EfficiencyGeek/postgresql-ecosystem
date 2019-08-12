@@ -2,7 +2,8 @@
 <!-- https://stackoverflow.com/questions/3492153/markdown-open-a-new-window-link/5803384 -->
 Overview of the capabilities and tooling directly tied to <a href="https://postgresql.org/" target="_blank">PostgreSQL</a>
 
-https://www.draw.io/?mode=github#HEfficiencyGeek%2Fpostgresql-ecosystem%2Fmaster%2Fpostgresql-ecosystem.drawio
+Diagram hosted by draw.io (<a href="https://www.draw.io/?mode=github#HEfficiencyGeek%2Fpostgresql-ecosystem%2Fmaster%2Fpostgresql-ecosystem.drawio" target="_blank">Edit</a>)
+
 
 	1. Why
 		a. What are the capabilities enabled with PostgreSQL?
