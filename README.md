@@ -10,10 +10,11 @@ Embedded Diagram
 ![Embedded Diagram2](https://raw.githubusercontent.com/EfficiencyGeek/postgresql-ecosystem/master/postgresql-ecosystem.png?token=AC2QMHEJNQAQDT35KDKHL625KG3OQ)
 
 1. Why  
-	a. What are the capabilities enabled with PostgreSQL?  
-	b. To increase the viability of PostgreSQL to those who are relatively new to it.
-2. What  
-	1. A diagram of the main entities providing capabilities, grouped into common areas.  
+	1. To facilitate architecture design discussions on capabilities enabled by the PostgreSQL ecosystem.
+	1. To increase the viability of PostgreSQL to those who are relatively new to it.
+	1. To contribute back to the generous and supportive PostgreSQL community.
+2. What
+	1. A diagram of the key capabilities clustered with entities that enable each capability. 
 	1. Languages  
 	1. Foreign Data Wrappers  
 	1. Extensions  
@@ -36,12 +37,13 @@ Embedded Diagram
 		1. PG Admin4  
 		1. PGWeb  
 		1. Azure Data Studio - SQL Notebook  
-
 3. How  
-	1. Open Source - use github?  
+	1. Open Source
+		1. github.com
+		2. draw.io
 	1. Allow for PRs, collaboration  
 	1. With Links to other sites.  
-	1. Feedback to alex@efficiencygeek.com  
+	1. Feedback to alex at efficiencygeek.com  
 
 Roadmap:  
 1. MMF1  
