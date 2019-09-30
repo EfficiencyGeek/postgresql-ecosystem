@@ -9,6 +9,7 @@ Diagram HTML by draw.io (<a href="https://efficiencygeek.github.io/postgresql-ec
 Embedded Diagram
 ![Embedded Diagram2](https://raw.githubusercontent.com/EfficiencyGeek/postgresql-ecosystem/master/postgresql-ecosystem.png?token=AC2QMHEJNQAQDT35KDKHL625KG3OQ)
 
+
 1. Why  
 	1. To facilitate architecture design discussions on capabilities enabled by the PostgreSQL ecosystem.
 	1. To increase the viability of PostgreSQL to those who are relatively new to it.
