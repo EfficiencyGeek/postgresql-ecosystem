@@ -4,28 +4,28 @@ Overview of the capabilities and tooling directly tied to <a href="https://postg
 
 Diagram hosted by draw.io (<a href="https://www.draw.io/?mode=github#HEfficiencyGeek%2Fpostgresql-ecosystem%2Fmaster%2Fpostgresql-ecosystem.drawio" target="_drawio">View/Edit</a>)
 
-Embedded Diagram
 ![Embedded Diagram2](https://raw.githubusercontent.com/EfficiencyGeek/postgresql-ecosystem/master/postgresql-ecosystem.png?token=AC2QMHEJNQAQDT35KDKHL625KG3OQ)
 
 1. Why  
 	1. To facilitate architecture design discussions on capabilities enabled by the PostgreSQL ecosystem.
 	1. To increase the viability of PostgreSQL to those who are relatively new to it.
 	1. To contribute back to the generous and supportive PostgreSQL community.
+
 2. What
 	1. A diagram of the key capabilities clustered with hyperlinked entities that enable each capability.
 	
 3. How  
-	13. Open Source
+	1. Open Source
 		1. github.com
 		2. draw.io
-	14. Allow for PRs, collaboration  
-	15. With Hyperlinks to other sites.  
-	16. Feedback to alex at efficiencygeek.com  
+	1. Allow for PRs, collaboration.  
+	1. With Hyperlinks to other sites.  
+	1. Feedback to alex at efficiencygeek.com  
 
 History:
 1. October 2019 - MMF1 
 	1.	Complete Data on Categories, Nodes with Links
-	2. 	Embed static image into this github repo, and just do a save as image from draw.io.
+	1. 	Embed static image into this github repo, and just do a save as image from draw.io.
 
 Backlog:  
 1. Embed static diagram directly linked to draw.io, avoiding the save as image step.
