@@ -1,4 +1,4 @@
-<mxfile modified="2021-11-04T02:22:10.861Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="NAKKJcXeb9oTr_mPYHAy" version="15.6.8" type="github">
+<mxfile modified="2021-11-04T02:27:46.478Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="SebBXlPgQvcf287U5mjg" version="15.6.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="57" dy="1440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -272,10 +272,10 @@
             <mxPoint x="1992.5" y="-400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2LREq_vUWXgBy6xoVpGK-22" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;entryX=-0.02;entryY=0.536;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2LREq_vUWXgBy6xoVpGK-26" target="2LREq_vUWXgBy6xoVpGK-19" edge="1">
+        <mxCell id="2LREq_vUWXgBy6xoVpGK-22" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;entryX=-0.006;entryY=0.311;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="2LREq_vUWXgBy6xoVpGK-26" target="2LREq_vUWXgBy6xoVpGK-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2114.5" y="-555" as="sourcePoint" />
-            <mxPoint x="2109.5" y="-561.5" as="targetPoint" />
+            <mxPoint x="1740" y="-626" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Logical Replication" link="https://severalnines.com/database-blog/overview-logical-replication-postgresql" id="2LREq_vUWXgBy6xoVpGK-23">
