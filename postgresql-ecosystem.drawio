@@ -1,6 +1,6 @@
-<mxfile modified="2020-05-19T03:25:47.917Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edg/81.0.416.72" etag="ikBAZ7-1E_EK0Jo96smJ" version="13.1.2" type="github">
+<mxfile modified="2021-11-04T02:21:28.056Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="fVKr-Xtmz6NuSbdC4gFm" version="15.6.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="597" dy="1769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="57" dy="1440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
         </mxCell>
         <UserObject label="Extensions" link="https://pgxn.org/" id="T47zWwT-9xR79p9-MtNg-2">
           <mxCell style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
-            <mxGeometry x="1947" y="-243" width="100" height="30" as="geometry" />
+            <mxGeometry x="1936" y="-243" width="100" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="T47zWwT-9xR79p9-MtNg-3" value="" style="edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T47zWwT-9xR79p9-MtNg-1" target="T47zWwT-9xR79p9-MtNg-2" edge="1">
@@ -367,17 +367,17 @@
         </mxCell>
         <UserObject label="pgTAP" link="https://pgtap.org/" id="2LREq_vUWXgBy6xoVpGK-39">
           <mxCell style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;fontColor=#333333;flipV=0;fontSize=10;spacingLeft=14;" parent="1" vertex="1">
-            <mxGeometry x="2042" y="-156" width="70" height="16" as="geometry" />
+            <mxGeometry x="2031" y="-156" width="70" height="16" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="pg_stat_statements" id="2LREq_vUWXgBy6xoVpGK-41">
           <mxCell style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;fontColor=#333333;flipV=0;fontSize=10;spacingLeft=14;" parent="1" vertex="1">
-            <mxGeometry x="2041.5" y="-189" width="116" height="20" as="geometry" />
+            <mxGeometry x="2030.5" y="-189" width="116" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Percona List" link="https://www.percona.com/blog/2018/10/05/postgresql-extensions-for-an-enterprise-grade-system/" id="2LREq_vUWXgBy6xoVpGK-42">
           <mxCell style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;fontColor=#333333;fontSize=10;spacingLeft=14;" parent="1" vertex="1">
-            <mxGeometry x="2041" y="-43" width="100" height="20" as="geometry" />
+            <mxGeometry x="2030" y="-43" width="100" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Full Text Search" link="https://www.postgresql.org/docs/current/textsearch.html" id="2LREq_vUWXgBy6xoVpGK-43">
@@ -393,53 +393,53 @@
         </mxCell>
         <UserObject label="Google Cloud &lt;br&gt;Supported" link="https://cloud.google.com/sql/docs/postgres/extensions" id="2LREq_vUWXgBy6xoVpGK-45">
           <mxCell style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;fontColor=#333333;spacingLeft=14;fontSize=10;" parent="1" vertex="1">
-            <mxGeometry x="2041.5" y="-107" width="110" height="30" as="geometry" />
+            <mxGeometry x="2030.5" y="-107" width="110" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="AWS RDS Supported" link="https://docs.aws.amazon.com/en_pv/AmazonRDS/latest/UserGuide/CHAP_PostgreSQL.html#PostgreSQL.Concepts.General.FeaturesExtensions" id="2LREq_vUWXgBy6xoVpGK-46">
           <mxCell style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;fontColor=#333333;flipV=0;fontSize=10;spacingLeft=14;" parent="1" vertex="1">
-            <mxGeometry x="2041.5" y="-131" width="125" height="20" as="geometry" />
+            <mxGeometry x="2030.5" y="-131" width="125" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Azure Supported" link="https://docs.microsoft.com/en-us/azure/postgresql/concepts-extensions" id="2LREq_vUWXgBy6xoVpGK-47">
           <mxCell style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;fontColor=#333333;fontSize=10;spacingLeft=14;" parent="1" vertex="1">
-            <mxGeometry x="2041.5" y="-72" width="120" height="20" as="geometry" />
+            <mxGeometry x="2030.5" y="-72" width="120" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="2LREq_vUWXgBy6xoVpGK-48" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;entryX=0.008;entryY=0.318;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T47zWwT-9xR79p9-MtNg-2" target="2LREq_vUWXgBy6xoVpGK-41" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2006.5" y="-210" as="sourcePoint" />
-            <mxPoint x="1962.5" y="-122.5" as="targetPoint" />
+            <mxPoint x="1995.5" y="-210" as="sourcePoint" />
+            <mxPoint x="1951.5" y="-122.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2LREq_vUWXgBy6xoVpGK-49" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0.216;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="T47zWwT-9xR79p9-MtNg-2" target="2LREq_vUWXgBy6xoVpGK-39" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1981.5" y="-236" as="sourcePoint" />
-            <mxPoint x="2034" y="-120" as="targetPoint" />
+            <mxPoint x="1970.5" y="-236" as="sourcePoint" />
+            <mxPoint x="2023" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2LREq_vUWXgBy6xoVpGK-50" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T47zWwT-9xR79p9-MtNg-2" target="2LREq_vUWXgBy6xoVpGK-46" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1991.5" y="-226" as="sourcePoint" />
-            <mxPoint x="2028" y="-92" as="targetPoint" />
+            <mxPoint x="1980.5" y="-226" as="sourcePoint" />
+            <mxPoint x="2017" y="-92" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2LREq_vUWXgBy6xoVpGK-51" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T47zWwT-9xR79p9-MtNg-2" target="2LREq_vUWXgBy6xoVpGK-45" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2023" y="-210" as="sourcePoint" />
-            <mxPoint x="2022.5" y="-58.5" as="targetPoint" />
+            <mxPoint x="2012" y="-210" as="sourcePoint" />
+            <mxPoint x="2011.5" y="-58.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2LREq_vUWXgBy6xoVpGK-52" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T47zWwT-9xR79p9-MtNg-2" target="2LREq_vUWXgBy6xoVpGK-47" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2023" y="-210" as="sourcePoint" />
-            <mxPoint x="2023.5" y="-30.5" as="targetPoint" />
+            <mxPoint x="2012" y="-210" as="sourcePoint" />
+            <mxPoint x="2012.5" y="-30.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2LREq_vUWXgBy6xoVpGK-54" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T47zWwT-9xR79p9-MtNg-2" target="2LREq_vUWXgBy6xoVpGK-42" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2023" y="-210" as="sourcePoint" />
-            <mxPoint x="2018.5" y="18.5" as="targetPoint" />
+            <mxPoint x="2012" y="-210" as="sourcePoint" />
+            <mxPoint x="2007.5" y="18.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Swam64 Data&lt;br&gt;Accelerator" link="https://www.swarm64.com/swarm64-da" id="2LREq_vUWXgBy6xoVpGK-56">
@@ -911,6 +911,17 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1903" y="-420" as="sourcePoint" />
             <mxPoint x="2008.5" y="-402.33333333333326" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 10px&quot;&gt;Babelfish SQL Server Adapter&lt;/font&gt;" id="un3_q_s0PpBnJtd6iBvX-1">
+          <mxCell style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;fontColor=#333333;flipV=0;fontSize=10;spacingLeft=14;" vertex="1" parent="1">
+            <mxGeometry x="2036" y="-216.5" width="157.5" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="un3_q_s0PpBnJtd6iBvX-2" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;entryX=0.014;entryY=0.653;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T47zWwT-9xR79p9-MtNg-2" target="un3_q_s0PpBnJtd6iBvX-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1971" y="-203" as="sourcePoint" />
+            <mxPoint x="2041.4280000000003" y="-172.63999999999987" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
