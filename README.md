@@ -25,6 +25,8 @@ Diagram hosted by draw.io (<a href="https://www.draw.io/?mode=github#HEfficiency
 History:
 1. November 2021
 	1. Added [Babelfish SQL Server Adapter](https://babelfishpg.org/blog/releases/2021/10/babelfish-launch/).
+1. Febuary 23, 2021
+	1. Referenced by [Marco Slot of Microsoft Citus Data](mailto:marco.slot@microsoft.com) in this presentation [Citus: Distributed PostgreSQL as an Extension | Vaccination Database Talks Carnegie Mellon](https://youtu.be/X-aAgXJZRqM?t=207)
 1. October 2019 - MMF1 
 	1.	Complete Data on Categories, Nodes with Links
 	1. 	Embed static image into this github repo, and just do a save as image from draw.io.
