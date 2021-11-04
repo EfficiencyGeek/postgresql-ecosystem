@@ -23,6 +23,8 @@ Diagram hosted by draw.io (<a href="https://www.draw.io/?mode=github#HEfficiency
 	1. Feedback to alex at efficiencygeek.com  
 
 History:
+1. November 2021
+	1. Added [Babelfish SQL Server Adapter](https://babelfishpg.org/blog/releases/2021/10/babelfish-launch/).
 1. October 2019 - MMF1 
 	1.	Complete Data on Categories, Nodes with Links
 	1. 	Embed static image into this github repo, and just do a save as image from draw.io.
