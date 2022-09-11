@@ -23,13 +23,17 @@ Diagram hosted by draw.io (<a href="https://www.draw.io/?mode=github#HEfficiency
 	1. Feedback to alex at efficiencygeek.com  
 
 History:
+1. September 2022
+	1. Added Supabase as a Cloud Provider.
+	1. Added referrence to original Chicago PUG presentation (see October 2019 below).
 1. November 2021
 	1. Added [Babelfish SQL Server Adapter](https://babelfishpg.org/blog/releases/2021/10/babelfish-launch/).
 1. Febuary 23, 2021
 	1. Referenced by Marco Slot of Microsoft Citus Data in this presentation [Citus: Distributed PostgreSQL as an Extension Vaccination Database Talks Carnegie Mellon](https://youtu.be/X-aAgXJZRqM?t=207)
 1. October 2019 - MMF1 
+	1.  Presented [this deck](preseentations/postgresql-ecosystem-CHI_PUG-20191016.pptx) at the [Chicago PostgreSQL Users' Group October 2019] (https://www.meetup.com/chicago-postgresql-user-group/events/265263425/).
 	1.	Complete Data on Categories, Nodes with Links
-	1. 	Embed static image into this github repo, and just do a save as image from draw.io.
+	1. 	Embed static image into this github repo, and just do a save as image from draw.io.	
 
 Backlog:  
 1. Embed static diagram directly linked to draw.io, avoiding the save as image step.
