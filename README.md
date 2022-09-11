@@ -31,7 +31,7 @@ History:
 1. Febuary 23, 2021
 	1. Referenced by Marco Slot of Microsoft Citus Data in this presentation [Citus: Distributed PostgreSQL as an Extension Vaccination Database Talks Carnegie Mellon](https://youtu.be/X-aAgXJZRqM?t=207)
 1. October 2019 - MMF1 
-	1.  Presented [this deck](preseentations/postgresql-ecosystem-CHI_PUG-20191016.pptx) at the [Chicago PostgreSQL Users' Group October 2019] (https://www.meetup.com/chicago-postgresql-user-group/events/265263425/).
+	1.  Presented [this deck](presentations/postgresql-ecosystem-CHI_PUG-20191016.pptx) at the [Chicago PostgreSQL Users' Group October 2019] (https://www.meetup.com/chicago-postgresql-user-group/events/265263425/).
 	1.	Complete Data on Categories, Nodes with Links
 	1. 	Embed static image into this github repo, and just do a save as image from draw.io.	
 
