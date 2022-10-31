@@ -42,3 +42,9 @@ History:
 
 Backlog:  
 1. Embed static diagram directly linked to draw.io, avoiding the save as image step.
+
+Thumbnail Link:
+[![Postgresql Ecosystem URL](https://raw.githubusercontent.com/EfficiencyGeek/postgresql-ecosystem/master/postgresql-ecosystem-thumbnail.png?style=social&label=ViewEdit)](https://github.com/EfficiencyGeek/postgresql-ecosystem)
+
+
+
