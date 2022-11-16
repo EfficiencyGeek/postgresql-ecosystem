@@ -1,6 +1,6 @@
-<mxfile modified="2022-10-31T17:58:56.140Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="fAqvdUK-PzENc2JnaZL6" version="20.5.1" type="github">
+<mxfile modified="2022-11-16T01:11:44.655Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="QutqqRaVBXVbVAHoWQrx" version="20.5.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="-362" dy="1246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="450" dy="1827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         </UserObject>
         <UserObject label="Spatial PostGIS" link="https://postgis.net/" id="T47zWwT-9xR79p9-MtNg-25">
           <mxCell style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;fontColor=#333333;fontSize=10;spacingLeft=14;" parent="1" vertex="1">
-            <mxGeometry x="1452" y="-326" width="91" height="20" as="geometry" />
+            <mxGeometry x="1456" y="-249.25" width="91" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="8VRheUsqfsgYY5pOcE5k-3" value="" style="edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T47zWwT-9xR79p9-MtNg-1" target="QQFrIH2gePDctSpPwOKv-10" edge="1">
@@ -97,7 +97,7 @@
         </UserObject>
         <UserObject label="Relational" link="https://www.postgresql.org/docs/current/sql.html" id="T47zWwT-9xR79p9-MtNg-21">
           <mxCell style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;fontColor=#333333;fontSize=10;spacingLeft=14;" parent="1" vertex="1">
-            <mxGeometry x="1452" y="-395" width="71" height="20" as="geometry" />
+            <mxGeometry x="1456" y="-296.25" width="71" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="T47zWwT-9xR79p9-MtNg-22" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T47zWwT-9xR79p9-MtNg-20" target="T47zWwT-9xR79p9-MtNg-21" edge="1">
@@ -112,7 +112,7 @@
         </mxCell>
         <UserObject label="JSON" link="https://www.postgresql.org/docs/current/functions-json.html" id="T47zWwT-9xR79p9-MtNg-24">
           <mxCell style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;fontColor=#333333;fontSize=10;spacingLeft=14;" parent="1" vertex="1">
-            <mxGeometry x="1451.5" y="-361" width="60" height="20" as="geometry" />
+            <mxGeometry x="1456" y="-273.25" width="60" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="T47zWwT-9xR79p9-MtNg-26" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T47zWwT-9xR79p9-MtNg-20" target="T47zWwT-9xR79p9-MtNg-24" edge="1">
@@ -133,12 +133,12 @@
         </mxCell>
         <UserObject label="Name Value" link="https://www.postgresql.org/docs/current/hstore.html" id="T47zWwT-9xR79p9-MtNg-29">
           <mxCell style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;fontColor=#333333;fontSize=10;spacingLeft=14;" parent="1" vertex="1">
-            <mxGeometry x="1451.5" y="-292" width="100" height="20" as="geometry" />
+            <mxGeometry x="1456" y="-227.25" width="100" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Columnar" link="https://www.citusdata.com/blog/2014/04/03/columnar-store-for-analytics/" id="T47zWwT-9xR79p9-MtNg-30">
           <mxCell style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;fontColor=#333333;fontSize=10;spacingLeft=14;" parent="1" vertex="1">
-            <mxGeometry x="1451.5" y="-257" width="80" height="20" as="geometry" />
+            <mxGeometry x="1456" y="-205.25" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="T47zWwT-9xR79p9-MtNg-31" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.001;entryY=0.286;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T47zWwT-9xR79p9-MtNg-20" target="T47zWwT-9xR79p9-MtNg-32" edge="1">
@@ -148,7 +148,7 @@
         </mxCell>
         <UserObject label="Timeseries at Rest" link="https://www.timescale.com/" id="T47zWwT-9xR79p9-MtNg-32">
           <mxCell style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;fontColor=#333333;fontSize=10;spacingLeft=14;" parent="1" vertex="1">
-            <mxGeometry x="1452" y="-222" width="121" height="20" as="geometry" />
+            <mxGeometry x="1456" y="-184.25" width="121" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="T47zWwT-9xR79p9-MtNg-33" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.001;entryY=0.286;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T47zWwT-9xR79p9-MtNg-20" target="T47zWwT-9xR79p9-MtNg-34" edge="1">
@@ -158,7 +158,7 @@
         </mxCell>
         <UserObject label="Timeseries Streaming" link="https://www.pipelinedb.com/" id="T47zWwT-9xR79p9-MtNg-34">
           <mxCell style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;fontColor=#333333;fontSize=10;spacingLeft=14;" parent="1" vertex="1">
-            <mxGeometry x="1451.5" y="-152.5" width="121" height="20" as="geometry" />
+            <mxGeometry x="1456" y="-140.75" width="121" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="T47zWwT-9xR79p9-MtNg-35" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.001;entryY=0.286;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T47zWwT-9xR79p9-MtNg-20" target="T47zWwT-9xR79p9-MtNg-36" edge="1">
@@ -168,7 +168,7 @@
         </mxCell>
         <UserObject label="GraphDB" link="https://bitnine.net/" id="T47zWwT-9xR79p9-MtNg-36">
           <mxCell style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;fontColor=#333333;fontSize=10;spacingLeft=14;" parent="1" vertex="1">
-            <mxGeometry x="1451.5" y="-188" width="80" height="20" as="geometry" />
+            <mxGeometry x="1456" y="-162.25" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Languages" id="QQFrIH2gePDctSpPwOKv-1">
@@ -382,7 +382,7 @@
         </UserObject>
         <UserObject label="Full Text Search" link="https://www.postgresql.org/docs/current/textsearch.html" id="2LREq_vUWXgBy6xoVpGK-43">
           <mxCell style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;fontColor=#333333;fontSize=10;spacingLeft=14;" parent="1" vertex="1">
-            <mxGeometry x="1451.5" y="-113" width="120" height="20" as="geometry" />
+            <mxGeometry x="1456" y="-117.75" width="120" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="2LREq_vUWXgBy6xoVpGK-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.361;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" parent="1" source="T47zWwT-9xR79p9-MtNg-20" target="2LREq_vUWXgBy6xoVpGK-43" edge="1">
@@ -494,7 +494,7 @@
         </mxCell>
         <UserObject label="PL/V8 Javascript" link="https://github.com/plv8/plv8" id="8VRheUsqfsgYY5pOcE5k-9">
           <mxCell style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;fontColor=#333333;fontSize=10;spacingLeft=14;" parent="1" vertex="1">
-            <mxGeometry x="1139" y="-299" width="120" height="20" as="geometry" />
+            <mxGeometry x="1139" y="-299" width="101" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="8VRheUsqfsgYY5pOcE5k-10" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="QQFrIH2gePDctSpPwOKv-1" target="8VRheUsqfsgYY5pOcE5k-9" edge="1">
@@ -505,10 +505,10 @@
         </mxCell>
         <UserObject label="PL/Java" link="https://github.com/tada/pljava" id="8VRheUsqfsgYY5pOcE5k-11">
           <mxCell style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;fontColor=#333333;fontSize=10;spacingLeft=14;" parent="1" vertex="1">
-            <mxGeometry x="1139" y="-272" width="80" height="20" as="geometry" />
+            <mxGeometry x="1139" y="-272" width="140" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="8VRheUsqfsgYY5pOcE5k-12" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="QQFrIH2gePDctSpPwOKv-1" target="8VRheUsqfsgYY5pOcE5k-11" edge="1">
+        <mxCell id="8VRheUsqfsgYY5pOcE5k-12" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QQFrIH2gePDctSpPwOKv-1" target="8VRheUsqfsgYY5pOcE5k-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1188.5" y="-50" as="targetPoint" />
             <mxPoint x="1239" y="-358.5" as="sourcePoint" />
@@ -806,12 +806,12 @@
             <mxPoint x="2039.5" y="-661" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Schema Model" link="https://www.citusdata.com/blog/2018/11/27/postgres-more-than-a-relational-database/" id="T47zWwT-9xR79p9-MtNg-20">
+        <UserObject label="Schema Model" id="T47zWwT-9xR79p9-MtNg-20">
           <mxCell style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-            <mxGeometry x="1307.5" y="-422" width="120" height="30" as="geometry" />
+            <mxGeometry x="1331" y="-323.25" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="T47zWwT-9xR79p9-MtNg-37" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="T47zWwT-9xR79p9-MtNg-1" target="T47zWwT-9xR79p9-MtNg-20" edge="1">
+        <mxCell id="T47zWwT-9xR79p9-MtNg-37" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T47zWwT-9xR79p9-MtNg-1" target="T47zWwT-9xR79p9-MtNg-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1716" y="-430" as="sourcePoint" />
             <mxPoint x="1791" y="-377" as="targetPoint" />
@@ -935,25 +935,47 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="Neon Serverless" link="https://neon.tech/" id="dOTeLAMfdHEFkXMFswTM-1">
-          <mxCell style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;fontColor=#333333;fontSize=10;spacingLeft=14;" vertex="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;fontColor=#333333;fontSize=10;spacingLeft=14;" parent="1" vertex="1">
             <mxGeometry x="1989.5" y="-365" width="108" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dOTeLAMfdHEFkXMFswTM-2" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;entryX=0.012;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2LREq_vUWXgBy6xoVpGK-14" target="dOTeLAMfdHEFkXMFswTM-1">
+        <mxCell id="dOTeLAMfdHEFkXMFswTM-2" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;entryX=0.012;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2LREq_vUWXgBy6xoVpGK-14" target="dOTeLAMfdHEFkXMFswTM-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1887.5" y="-296" as="sourcePoint" />
             <mxPoint x="1921.3400000000001" y="-283.31549999999993" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Google AlloyDB for PostgreSQL" link="https://cloud.google.com/alloydb" id="dOTeLAMfdHEFkXMFswTM-5">
-          <mxCell style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;fontColor=#333333;fontSize=10;spacingLeft=14;" vertex="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;fontColor=#333333;fontSize=10;spacingLeft=14;" parent="1" vertex="1">
             <mxGeometry x="1989.5" y="-406.5" width="175" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dOTeLAMfdHEFkXMFswTM-6" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;entryX=0.022;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dOTeLAMfdHEFkXMFswTM-5" source="2LREq_vUWXgBy6xoVpGK-14">
+        <mxCell id="dOTeLAMfdHEFkXMFswTM-6" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;entryX=0.022;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2LREq_vUWXgBy6xoVpGK-14" target="dOTeLAMfdHEFkXMFswTM-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1902.5" y="-406" as="sourcePoint" />
             <mxPoint x="2012.8000000000002" y="-398" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Ottertune" link="https://ottertune.com/postgresql/" id="Cpcb-7nC_fcn1YQzrAB_-1">
+          <mxCell style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;fontColor=#333333;fontSize=10;spacingLeft=14;" vertex="1" parent="1">
+            <mxGeometry x="1497" y="-353.5" width="90" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Optimization" id="Cpcb-7nC_fcn1YQzrAB_-3">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+            <mxGeometry x="1495.5" y="-427" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Cpcb-7nC_fcn1YQzrAB_-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="T47zWwT-9xR79p9-MtNg-1" target="Cpcb-7nC_fcn1YQzrAB_-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1589.9999999999989" y="-455" as="sourcePoint" />
+            <mxPoint x="1371" y="-313.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cpcb-7nC_fcn1YQzrAB_-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.504;entryY=0.034;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Cpcb-7nC_fcn1YQzrAB_-3" target="Cpcb-7nC_fcn1YQzrAB_-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1589.9999999999989" y="-455" as="sourcePoint" />
+            <mxPoint x="1560.5142857142857" y="-417" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
