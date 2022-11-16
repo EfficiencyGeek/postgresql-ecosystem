@@ -24,6 +24,8 @@ Overview of the capabilities and tooling directly tied to <a href="https://postg
 	1. Feedback to alex at efficiencygeek.com  
 
 History:
+1. November 2022
+	1. Added [Ottertune](https://ottertune.com/postgresql/), Machine learning augmtented tuning for PostgreSQL.
 1. October 2022
 	1. Added [Neon Serverless](https://neon.tech/).
 	1. Added [Azure Cosmos DB for PostgreSQL](https://learn.microsoft.com/en-us/azure/cosmos-db/postgresql/introduction).
