@@ -5,7 +5,7 @@ Overview of the capabilities and tooling directly tied to <a href="https://postg
 
 (<a href="https://www.draw.io/?mode=github#HEfficiencyGeek%2Fpostgresql-ecosystem%2Fmaster%2Fpostgresql-ecosystem.drawio" target="_drawio">Click here to view/edit</a>) the diagram with hyperlinks, hosted by draw.io.
 
-![Embedded Diagram2](https://raw.githubusercontent.com/EfficiencyGeek/postgresql-ecosystem/master/postgresql-ecosystem.png)
+[![Embedded Diagram2](https://raw.githubusercontent.com/EfficiencyGeek/postgresql-ecosystem/master/postgresql-ecosystem.png)](https://www.draw.io/?mode=github#HEfficiencyGeek%2Fpostgresql-ecosystem%2Fmaster%2Fpostgresql-ecosystem.drawio)
 
 1. Why  
 	1. To facilitate architecture design discussions on capabilities enabled by the PostgreSQL ecosystem.
