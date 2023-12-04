@@ -3,7 +3,7 @@
 <!-- https://stackoverflow.com/questions/3492153/markdown-open-a-new-window-link/5803384 -->
 Overview of the capabilities and tooling directly tied to <a href="https://postgresql.org/" target="_blank">PostgreSQL</a>
 
-(<a href="postgresql-ecosystem.drawio.png" target="_drawio">Click here to view/edit</a>) the diagram with hyperlinks, hosted by draw.io.
+(<a href="https://www.draw.io/?mode=github#HEfficiencyGeek%2Fpostgresql-ecosystem%2Fmaster%2Fpostgresql-ecosystem.drawio.png" target="_drawio">Click here to view/edit</a>) the diagram with hyperlinks, hosted by draw.io.
 
 [![Embedded Diagram2](postgresql-ecosystem.drawio.png)](postgresql-ecosystem.drawio.png)
 
