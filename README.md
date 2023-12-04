@@ -3,9 +3,9 @@
 <!-- https://stackoverflow.com/questions/3492153/markdown-open-a-new-window-link/5803384 -->
 Overview of the capabilities and tooling directly tied to <a href="https://postgresql.org/" target="_blank">PostgreSQL</a>
 
-(<a href="https://www.draw.io/?mode=github#HEfficiencyGeek%2Fpostgresql-ecosystem%2Fmaster%2Fpostgresql-ecosystem.drawio" target="_drawio">Click here to view/edit</a>) the diagram with hyperlinks, hosted by draw.io.
+(<a href="postgresql-ecosystem.drawio.png" target="_drawio">Click here to view/edit</a>) the diagram with hyperlinks, hosted by draw.io.
 
-[![Embedded Diagram2](https://raw.githubusercontent.com/EfficiencyGeek/postgresql-ecosystem/master/postgresql-ecosystem.png)](https://raw.githubusercontent.com/EfficiencyGeek/postgresql-ecosystem/master/postgresql-ecosystem.png)
+[![Embedded Diagram2](postgresql-ecosystem.drawio.png)](postgresql-ecosystem.drawio.png)
 
 1. Why  
 	1. To facilitate architecture design discussions on capabilities enabled by the PostgreSQL ecosystem.
@@ -24,6 +24,13 @@ Overview of the capabilities and tooling directly tied to <a href="https://postg
 	1. Feedback to alex at efficiencygeek.com  
 
 History:
+1. December 2023
+   1. Added Google Cloud Spanner.
+   1. Added Azure Data API Builder.
+   1. Added Vector Schema Model.
+   1. Removed Swarm64 as it was purchased by ServiceNow.
+   1. Updated certain links to be more topic specific.
+   2. Updated diagram file format to an editable bitmapped image (drawio.png) and simplify edit and display of the drawio file.   
 1. November 2022
    1. Added [Ottertune](https://ottertune.com/postgresql/), Machine learning augmtented tuning for PostgreSQL.  
    2. Added a new category Optimization to match.	
