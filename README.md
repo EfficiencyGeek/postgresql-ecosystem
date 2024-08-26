@@ -24,6 +24,13 @@ Overview of the capabilities and tooling directly tied to <a href="https://postg
 	1. Feedback to alex at efficiencygeek.com  
 
 History:
+1. August 2024
+   1. Created a category - GenAI.
+   1. Added [PostgresML](https://postgresml.org/blog), Full GenAI ML stack inside PostgreSQL.
+   1. Added [postgres.new](https://supabase.com/blog/postgres-new), In-browser Postgres with an AI interface.
+   1. Removed Ottertune, as it [shutdown as of 6/14/24](https://x.com/andy_pavlo/status/1801687420330770841).
+   1. Removed Optimization category.   
+
 1. December 2023
    1. Added Google Cloud Spanner.
    1. Added Azure Data API Builder.
