@@ -1,0 +1,11 @@
+services:
+  dev-container:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ubuntu_dev
+    tty: true  # Keep the terminal open
+    stdin_open: true  # Keep stdin open
+    volumes:
+      - .:/workspace
+    working_dir: /workspace
